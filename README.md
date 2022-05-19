@@ -1,2 +1,2 @@
 # [linman.pages.dev](https://linman.pages.dev)
-## Linux Manuals
+## Linux Programmer's Manuals
